@@ -1,1 +1,1 @@
-Recursion Repository contains all the recursion based questions from multiple platform such as leetcode, HackerRank  and so on. 
+All the recursion based practice questions from multiple platform such as leetcode, HackerRank and so on. 
